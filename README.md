@@ -1,5 +1,5 @@
 # Angular-15-
-# Angular facesnap Project with Unit Testing Example
+### Angular facesnap Example with Unit Testing Example
 Welcome to the Angular facesnap Project! This repository provides a small Angular v15 project based on a course that I had complated in OpenClassroom platform that serves as an excellent starting point for anyone looking to dive into Angular development. It includes a practical example of unit testing in Angular to help you understand the testing concepts and best practices.
 
 Features
